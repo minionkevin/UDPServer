@@ -1,0 +1,15 @@
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.exe
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.deps.json
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.runtimeconfig.json
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.dll
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\bin\Debug\net6.0\UdpServer.pdb
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.csproj.AssemblyReference.cache
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfoInputs.cache
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.AssemblyInfo.cs
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.csproj.CoreCompileInputs.cache
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.dll
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\refint\UdpServer.dll
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.pdb
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\UdpServer.genruntimeconfig.cache
+E:\Unity\泰课\Unity-网络\项目\UDP\UdpServer\UdpServer\obj\Debug\net6.0\ref\UdpServer.dll
