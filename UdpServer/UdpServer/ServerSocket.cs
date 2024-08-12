@@ -51,8 +51,13 @@ namespace UdpServer
                     port = ipEndPoint.Port;
                     clientID = String.Concat(ip, port);
 
-                    if(!clientDic.ContainsKey(clientID)) clientDic.Add(clientID, new ClientInfo(ip, port));
-                    clientDic[clientID].HandleReceiveMsg(bytes);
+                    if (clientDic.ContainsKey(clientID))
+                        clientDic[clientID].HandleReceiveMsg(bytes);
+                    else
+                    {
+                        clientDic.Add(clientID, new ClientInfo(ip, port));
+                        clientDic[clientID].HandleReceiveMsg(bytes);
+                    }
                 }
             }
         }

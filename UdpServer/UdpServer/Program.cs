@@ -12,8 +12,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
         public static ServerSocket serverSocket;
         static void Main(string[] args)
         {
-            ServerSocket socket = new ServerSocket();
-            socket.Start("127.0.0.1", 8081);
+            serverSocket = new ServerSocket();
+            serverSocket.Start("127.0.0.1", 8080);
             Console.WriteLine("UDP START");
 
 
